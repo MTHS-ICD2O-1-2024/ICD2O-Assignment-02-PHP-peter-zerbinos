@@ -22,6 +22,9 @@
       </div>
     </header>
     <main class="mdl-layout__content">
+      <div class="right-image">
+        <img src="./images/pyramid.png" alt="pyramid" />
+      </div>
       <div class="page-content">Enter the base length, width, and height in cm.</div>
       <br />
       <form action="answer.php" method="GET">
